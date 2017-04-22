@@ -10,3 +10,5 @@ _Downloaded from github repository._
 * [ADMB 11.5 Manual](https://github.com/admb-project/admb/releases/download/admb-11.5/admb-11.5.pdf)
 * [ADMB Random Effects 11.5 Manual](https://github.com/admb-project/admb/releases/download/admb-11.5/admbre-11.5.pdf)
 * [Autodif 11.5 Manual](https://github.com/admb-project/admb/releases/download/admb-11.5/autodif-11.5.pdf)
+
+* [Extending TMB and ADMB Functionality Jointly](/docs/TINY_AD.pdf)
